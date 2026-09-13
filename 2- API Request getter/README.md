@@ -1,0 +1,1 @@
+This is a simple public API caller. You already know what it is and it's not a big deal. I've just made it to practice. Adios!
